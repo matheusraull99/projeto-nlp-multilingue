@@ -1,0 +1,21 @@
+review_id,review_text,language,rating
+101,"This app is amazing! Love the new features.",EN,5
+102,"It crashes every time I open it. Useless.",EN,1
+103,"Good, but the price is too high.",EN,3
+104,"The new update is very slow.",EN,2
+105,"Best app for productivity!",EN,5
+201,"Muito lento depois da última atualização. Corrijam isso!",PT,1
+202,"Amo este aplicativo, uso todos os dias. Vale o preço.",PT,5
+203,"Não consigo fazer login. O botão de 'entrar' está quebrado.",PT,2
+204,"Poderia ser melhor, faltam algumas funções básicas.",PT,3
+205,"O design é lindo, muito intuitivo.",PT,4
+301,"No funciona en mi teléfono. La app se cierra sola.",ES,2
+302,"Es la mejor app que he usado. ¡Fantástico!",ES,5
+303,"Demasiado caro. Hay opciones gratuitas que son mejores.",ES,2
+304,"El servicio al cliente es terrible, no responden.",ES,1
+305,"Me gusta, pero la interfaz es un poco confusa.",ES,3
+401,"Gute App, aber der Preis ist zu hoch. Es gibt billigere Alternativen.",DE,3
+402,"Absolut unbrauchbar. Funktioniert nicht und stürzt ständig ab.",DE,1
+403,"Ich benutze es jeden Tag. Sehr nützlich!",DE,5
+404,"Die letzte Aktualisierung hat alles kaputt gemacht. Schrecklich.",DE,1
+405,"Das Design ist sauber und einfach zu bedienen.",DE,4
